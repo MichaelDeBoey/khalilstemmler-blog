@@ -409,8 +409,6 @@ export {
 
 And then I would have imported it into the `authors/useCases/index.ts` which is generally a **great experience** using Visual Studio Code's intellisense.
 
-<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/lS1SkwJC9gyTwk0pOh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lS1SkwJC9gyTwk0pOh"></a></p>
-
 <p class="caption">Using Intellisense to automatically trace dependencies by name.</p>
 
 Nice. Now that the use case is created, I need to inject _that_ into my controller.

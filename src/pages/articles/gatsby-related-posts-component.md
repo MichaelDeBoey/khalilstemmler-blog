@@ -28,8 +28,6 @@ _This is a post for people who already know the basics of how to build sites wit
 
 Since this is a site about **Design Patterns and Principles**, I'm going to show you one way to build something like this using the _very fancy_ **Builder Pattern** in a way that doesn't feel _fancy_ but feels _powerful_.
 
-<iframe src="https://giphy.com/embed/O73g1gZXVyY6Y" width="100%" height="195" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 ### High level explanation
 
 On my site, I organize all of my blog posts as `Articles`.
