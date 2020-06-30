@@ -123,11 +123,11 @@ Here are two cool playlists I've been crafting for some time on Spotify.
 
 _I also noticed that these can only show you 100 songs in the embed, if you're interested- check out [all my public playlists here](https://open.spotify.com/user/12167383357?si=g4DAD0oITymYr7EfKDpPtw)_.
 
-<iframe src="https://open.spotify.com/embed/playlist/7sTrdSOIGoF2VR3luzf63Y" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+https://open.spotify.com/playlist/7sTrdSOIGoF2VR3luzf63Y
 
 And this one!
 
-<iframe src="https://open.spotify.com/embed/playlist/32AWDdjyKJ9m0BGyG8VraT" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+https://open.spotify.com/playlist/32AWDdjyKJ9m0BGyG8VraT
 
 <p class="special-quote">I wrote a piece specifically about why I'm drawn to brutalism in art, design, and music. You can read it <a href="http://localhost:8001/blogs/thoughts/brutalist-websites/">here</a>.</p>
 

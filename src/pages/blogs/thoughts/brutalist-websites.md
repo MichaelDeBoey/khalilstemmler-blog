@@ -199,8 +199,7 @@ Brutalist websites built with HTML, CSS, and JavaScript don't aim to mask, sweet
 
 If you're into discordant music, check out one of my playlists titled "Junk Jazz" on Spotify.
 
-<iframe src="https://open.spotify.com/embed/playlist/0M9314rqdlCm1Ga2aFsipb" width="100%" height="350px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+https://open.spotify.com/playlist/0M9314rqdlCm1Ga2aFsipb
 
 [^1]: See [Brutalism definition](https://trydesignlab.com/blog/brutalist-websites-5-things-designers-learn-brutalism/)
 
