@@ -18,7 +18,7 @@ published: true
 
 Readers that frequent this blog know that I often look for answers to the hard questions in software design and architecture 🧐. 
 
-Over the past few years, we've seen companies of all shapes and sizes like [Expedia](https://www.apollographql.com/customers/expediagroup/?utm_source=khalil&utm_medium=article&utm_campaign=graphql_architectural_advantages), [Nerdwallet](https://www.nerdwallet.com/blog/engineering/migrating-redux-graphql-nerdwallet-internship-experience/), and [AirBnb](https://www.youtube.com/watch?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_189&v=pywcFELoU8E) incrementally adopt GraphQL throughout their organizations. 
+Over the past few years, we've seen companies of all shapes and sizes like [Expedia](https://www.apollographql.com/customers/expediagroup/?utm_source=khalil&utm_medium=article&utm_campaign=graphql_architectural_advantages), [Nerdwallet](https://www.nerdwallet.com/blog/engineering/migrating-redux-graphql-nerdwallet-internship-experience/), and [AirBnb](https://youtu.be/pywcFELoU8E) incrementally adopt GraphQL throughout their organizations. 
 
 In this article, we'll discuss **specific architectural advantages** to using GraphQL in your next project or adopting it for an existing one.
 
@@ -84,7 +84,7 @@ If this sounds a bit _virtual_, that's because it kinda is. At Apollo GraphQL, w
 
 I first heard the idea of a **Data Graph** from [Matt DeBergalis](https://twitter.com/debergalis), CTO of [Apollo GraphQL](https://www.apollographql.com/docs/?utm_source=khalil&utm_medium=article&utm_campaign=graphql_architectural_advantages), at GraphQL Summit 2019.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EDqw-sGVq3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/EDqw-sGVq3k
 
 <p class="caption">I highly recommend Matt's talk at GraphQL Summit 2019 where he introduces the concept of the Data Graph.</p>
 

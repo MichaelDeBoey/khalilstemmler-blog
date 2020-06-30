@@ -141,7 +141,7 @@ The ironically named _Pop_ Group is a discordant band writing songs where almost
 
 In popular music (take Madonna's _"Lucky Star"_, for example), a lot of effort is focused towards making all the instruments compliment each other. In other words, a **good pop song** is one you can **dance to**, is free of awkward silences, and nothing quite sticks out at you awkwardly.
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/ThHz9wlBeLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/ThHz9wlBeLU
 
 <p class="caption">Madonna's "Lucky Star". An excellent pop song.</p>
 
@@ -152,7 +152,7 @@ On _"Lucky Star"_, there are several instruments in the mix strategically placed
 Now take a song like _"Snowgirl"_, off of The Pop Group's debut album, [Y](https://en.wikipedia.org/wiki/Y_(album)), who [Stylus Magazine](https://en.wikipedia.org/wiki/Stylus_Magazine) wrote that the "political punk tunes are deconstructed so that only the skeleton remains, and weaving between those bare bones are some of the nastiest sounds ever made." [^3]
 
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/Pkib-F9n5HU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/Pkib-F9n5HU
 
 <p class="caption">The Pop Group's "Snowgirl". A discordant piano ballad accompanied by guitars that sound like they're on the verge of unrepairable destruction, angular bass lines, and delay drenched drums and vocals not uncommon in dub and reggae music.</p>
 
@@ -160,13 +160,13 @@ Now take a song like _"Snowgirl"_, off of The Pop Group's debut album, [Y](https
 
 The album has had a lasting impact, with artists such as the [Sonic Youth](https://en.wikipedia.org/wiki/Sonic_Youth) and [Nick Cave](https://en.wikipedia.org/wiki/Nick_Cave) citing the album as an influence on their work.
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/BUC2GmzJpGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/BUC2GmzJpGY
 
 <p class="caption">Nick Cave would go on to create "The Birthday Party", one of the most influential post-punk bands of the 70s and early 80s.</p>
 
 Watch Sonic Youth perform _"The Burning Spear"_ live below. Guitarist, Thurson Moore wedges a drumstick inbetween the fret and strings of his guitar and uses another drumstick to get some novel sounds out of the instrument.
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/c1YVPanmh0Q?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/c1YVPanmh0Q?start=16
 
 <p class="caption">Sonic Youth performing "The Burning Spear", the first SY song ever written.</p>
 
@@ -174,13 +174,13 @@ The Pop Group might not be where discordant music started, but for what I spend 
 
 Here's another interesting one from [James Chance and the Contortions](https://en.wikipedia.org/wiki/James_Chance_and_the_Contortions), no-wave band of the 70s that I describe as a mix between James Brown and The Pop Group.
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/uCI24Lt9aNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/uCI24Lt9aNQ
 
 <p class="caption">James Chance and the Contortions are placed under the genres of No wave, punk jazz, avant-funk, dance-punk.</p>
 
 Finally, my favourite band of all time, before Nick Cave went Americana, he was in the influential [Birthday Party](https://en.wikipedia.org/wiki/The_Birthday_Party_(band)), which wouldn't exist without The Pop Group.
 
-<iframe width="100%" height="350px" src="https://www.youtube.com/embed/Q88nEF9cbbk?start=2010" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/Q88nEF9cbbk?start=2010
 
 <p class="caption">The Birthday Party's influence has been far-reaching, and they have been called "one of the darkest and most challenging post-punk groups to emerge in the early '80s." - <a href="https://en.wikipedia.org/wiki/The_Birthday_Party_(band)">Wikipedia</a></p>
 

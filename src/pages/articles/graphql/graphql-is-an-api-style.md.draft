@@ -4,7 +4,7 @@ title: "GraphQL is the Best API Style for Complex Front-end Interfaces"
 date: '2020-11-19T17:04:10-05:00'
 updated: '2020-11-19T17:04:10-05:00'
 description: >-
-  
+
 tags:
   - GraphQL
   - API
@@ -13,9 +13,9 @@ image: /img/blog/graphql/graphql-banner.png
 published: true
 ---
 
-"GraphQL, is that like a _graph_ database?" 
+"GraphQL, is that like a _graph_ database?"
 
-Well, GraphQL is very graph-y in nature, but it's _not_ database-y at all. 
+Well, GraphQL is very graph-y in nature, but it's _not_ database-y at all.
 
 Fundamentally, **GraphQL is an API style**.
 
@@ -25,7 +25,7 @@ APIs are the way that we communicate between different parts of our applications
 
 We're most used to thinking about APIs as the mechanism that we use for either a front-end application to connect to a back-end one, or two back-end services to connect to each other.
 
-GraphQL, just like REST, SOAP, and RPC, are API styles. 
+GraphQL, just like REST, SOAP, and RPC, are API styles.
 
 The interesting part is that all APIs can be thought of as a spectrum from customizable to optimizable.
 
@@ -40,7 +40,7 @@ The interesting part is that all APIs can be thought of as a spectrum from custo
 
 
 
- just like [Field Filtering](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/), [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call), [Response Partials](https://dev.to/andersonjoseph/what-they-want-is-what-they-get-the-partial-response-strategy-5a0m), 
+ just like [Field Filtering](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/), [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call), [Response Partials](https://dev.to/andersonjoseph/what-they-want-is-what-they-get-the-partial-response-strategy-5a0m),
 
 
 
@@ -57,7 +57,7 @@ The interesting part is that all APIs can be thought of as a spectrum from custo
 
 - Talking point: Communication is simplified.
   - The query language
-    - the language has already been defined to 
+    - the language has already been defined to
     - whereas with REST, we spend a lot of time thinking about what the correct METHOD + URL style would be in order to build something, and not every person does this the same way. You still end up with scenarios where someone d
       - When should you use PATCH, PUT, or POST?
     - Steve Jobs / Jason Lengstorf effect: Screw it, let me simplify my life. I'm just going to wear a black shirt and jeans.
@@ -74,7 +74,7 @@ The interesting part is that all APIs can be thought of as a spectrum from custo
   - Instead of hard-coding the URLs of your _Customer Service_, your _Users Service_, your _Product Service_, and more services, using Federation, we can customize a GraphQL endpoint to act as a Gateway to connect to all of these services, and access them in a single graph.
 
 
---- 
+---
 
 Goal: To inform people what GraphQL is and what it's not. And to inform them where it belongs in the stack since it's an API style.
 
@@ -90,12 +90,13 @@ Goal: To inform people what GraphQL is and what it's not. And to inform them whe
     - Declaratively asking for the data you want.
     - Removes the need for multiple endpoints and unblocks the front end teams from waiting for them to deploy several more RESTful endpoints.
   - GraphQL is not as performant as REST or RPC
-    - If you have a relatively simple front-end interface or you're not even going to have a front-end interface (server-to-server communication), you could consider skipping GraphQL. 
-    
+    - If you have a relatively simple front-end interface or you're not even going to have a front-end interface (server-to-server communication), you could consider skipping GraphQL.
+
 The work doesn't disappear, but who we offload the work to
 
 Important considerations are:
 - to keep copde
 
 "Caching & GraphQL: Setting the Story Straight (MARC-ANDRÉ GIROUX Senior Platform Engineer at GitHub)" from GraphQL Summit 2019
-https://www.youtube.com/watch?v=CV3puKM_G14
+
+https://youtu.be/CV3puKM_G14

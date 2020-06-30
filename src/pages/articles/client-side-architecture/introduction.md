@@ -88,7 +88,7 @@ At the end of this guide, you'll learn a standard for web development. You'll ha
 
 - Familiarity with at least one front-end view layer library and state management approach.
 - (optional) [Knowing When CRUD & MVC Isn't Enough | Enterprise Node.js + TypeScript](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/when-crud-mvc-isnt-enough/)
-- (optional) ["A Treatise on State" by Jed Watson](https://www.youtube.com/watch?v=tBz3UmZG_bk)
+- (optional) ["A Treatise on State" by Jed Watson](https://youtu.be/tBz3UmZG_bk)
 
 ## Why we need a client-side architecture standard
 
@@ -683,7 +683,7 @@ handleSave = (id: number, text: string) => {
 
 This is where the *first* type of state we might encounter: `local (component)` state.
 
-In [Jed Watson](https://twitter.com/JedWatson)'s talk from GraphQL Summit 2019 titled, "[A Treatise on State](https://www.youtube.com/watch?v=tBz3UmZG_bk&feature=emb_title)", he describes five different types of state when building web apps: `local (component)`, `shared (global)`, `remote (global)`, `meta`, and `router`.
+In [Jed Watson](https://twitter.com/JedWatson)'s talk from GraphQL Summit 2019 titled, "[A Treatise on State](https://youtu.be/tBz3UmZG_bk)", he describes five different types of state when building web apps: `local (component)`, `shared (global)`, `remote (global)`, `meta`, and `router`.
 
 - **Explanations of the five types of state**
     - `local (component)` : State that belongs to a single component. Can also be thought about as UI state. UI state can be extracted from a presentation component into a React hook. **Note: we're about to do this**.

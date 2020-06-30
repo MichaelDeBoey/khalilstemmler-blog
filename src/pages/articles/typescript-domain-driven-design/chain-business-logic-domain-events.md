@@ -101,7 +101,7 @@ class UsersService {
 }
 ```
 
-The humanity! You probably feel <a target="_blank" href="https://www.youtube.com/watch?v=zhavFPiZXP4">like this</a> right now.
+The humanity! You probably feel [like this](https://youtu.be/zhavFPiZXP4) right now.
 
 Alright, what's wrong with this?
 

@@ -203,7 +203,7 @@ Mr. Node was a mental mummy businessman that performed with toilet paper wrapped
 
 I don't know. Something happened here witnessing this. I've never seen music performed so passionately. It was probably more _performance art_ than music. Art had been so important to me for such a long time, and on that day, something shifted in my head. I'm not sure how to explain it. Weird that I'd even mention it on a decade retrospective, but it's unexplainably important to me for some reason.
 
-<p class="special-quote"><b>Further reading</b>: I find these guys fascinating. If you're interested, check out this Vice article titled "<a href="https://www.vice.com/en_au/article/6a9m86/thee-nodes-went-to-the-future-and-came-back-insane">Thee Nodes Went to the Future and Came Back Insane</a>". If you're still intrigued, I just learned that the original documentary "<a href="https://www.youtube.com/watch?v=_T6Ti2S_fLY">Who Are You Mr. Node?</a>" is finally on YouTube.</p>
+<p class="special-quote"><b>Further reading</b>: I find these guys fascinating. If you're interested, check out this Vice article titled "<a href="https://www.vice.com/en_au/article/6a9m86/thee-nodes-went-to-the-future-and-came-back-insane">Thee Nodes Went to the Future and Came Back Insane</a>". If you're still intrigued, I just learned that the original documentary "[Who Are You Mr. Node?](https://youtu.be/_T6Ti2S_fLY)" is finally on YouTube.</p>
 
 ### Started learning computer networking at Sheridan College in Oakville
 

@@ -277,7 +277,7 @@ for (let vote of votes) {
 
 Undefined and null-y values are things that we should be prepared to deal with.
 
-In Scott Wlaschin's talk, "[Domain Modeling Made Functional](https://www.youtube.com/embed/PLFl95c-IiU)", he suggests representing `null` or `undefined` with its own type, like `Nothing`.
+In Scott Wlaschin's talk, "[Domain Modeling Made Functional](https://youtu.be/PLFl95c-IiU)", he suggests representing `null` or `undefined` with its own type, like `Nothing`.
 
 ```typescript
 type Nothing = null | undefined | '';
@@ -490,5 +490,5 @@ Types are the laws that dictate what's allowed to happen in our domain. Next tim
 
 ## References & resources
 
-For a purely functional introduction to how to implement your domain layer code functionally, watch Scott's "[Domain Modeling Made Functional](https://www.youtube.com/embed/PLFl95c-IiU)" talk. I recommend you check it out. It's well worth your time.
+For a purely functional introduction to how to implement your domain layer code functionally, watch Scott's "[Domain Modeling Made Functional](https://youtu.be/PLFl95c-IiU)" talk. I recommend you check it out. It's well worth your time.
 

@@ -41,7 +41,7 @@ Often, developers are really good at _developing_, but don't hold a great unders
 
 ![](/img/blog/graphql/ddd/schema-design/talk-cap.png)
 
-<p class="caption">You're probably more likely to find a rare unicorn strolling down your company office than you are to find someone who is both a GraphQL Expert AND a Domain Expert - from [Marc-André Giroux](https://twitter.com/__xuorig__)'s <a target="_blank" href="https://www.youtube.com/watch?v=pJamhW2xPYw">talk at GraphQL Summit 2018</a>. </p>
+<p class="caption">You're probably more likely to find a rare unicorn strolling down your company office than you are to find someone who is both a GraphQL Expert AND a Domain Expert - from [Marc-André Giroux](https://twitter.com/__xuorig__)'s [talk at GraphQL Summit 2018](https://youtu.be/pJamhW2xPYw). </p>
 
 This post was inspired by a tweet I blasted out recently. It describes how we can stack our odds of success for building an accurate GraphQL schema by involving domain experts in a process called _Event Storming_.
 
