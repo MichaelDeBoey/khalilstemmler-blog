@@ -26,23 +26,6 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
   ReactGA.pageview(location.pathname + location.search + location.hash)
 }
 
-function loadScript (src) {
-  return new Promise(function(resolve, reject){
-    var script = document.createElement('script');
-    script.src = src;
-    script.addEventListener('load', function () {
-      resolve();
-    });
-    script.addEventListener('error', function (e) {
-      reject(e);
-    });
-    document.body.appendChild(script);
-  })
-};
-// Promise Interface can ensure load the script only once.
-loadScript('https://platform.twitter.com/widgets.js');
-
-
 const bugsnagClient = bugsnag('6ebb797b32abf0914738a154bea1971b')
 bugsnagClient.use(bugsnagReact, React)
 
@@ -79,14 +62,14 @@ function toggleExpandableSection(id) {
   }
 }
 
-// exports.onInitialClientRender = (_, pluginOptions) => { 
+// exports.onInitialClientRender = (_, pluginOptions) => {
 //   let offsetY = 0;
-  
+
 //   console.log(pluginOptions)
-//   if (pluginOptions.offsetY) { 
+//   if (pluginOptions.offsetY) {
 //     debugger;
-//     offsetY = pluginOptions.offsetY 
-//   } 
+//     offsetY = pluginOptions.offsetY
+//   }
 
 //   const getTargetOffset = hash => {
 //     const id = window.decodeURI(hash.replace(`#`, ``))
@@ -104,7 +87,7 @@ function toggleExpandableSection(id) {
 //           computedStyles.getPropertyValue(`scroll-margin-top`) ||
 //           computedStyles.getPropertyValue(`scroll-snap-margin-top`) ||
 //           `0px`
-  
+
 //         return (
 //           element.getBoundingClientRect().top +
 //           scrollTop -
@@ -116,14 +99,14 @@ function toggleExpandableSection(id) {
 //     }
 //     return null
 //   }
- 
-//   requestAnimationFrame(() => { 
-//     const offset = getTargetOffset(window.location.hash) 
-//     if (offset !== null) { 
-//       window.scrollTo(0, offset) 
-//     } 
-//   }) 
-// } 
+
+//   requestAnimationFrame(() => {
+//     const offset = getTargetOffset(window.location.hash)
+//     if (offset !== null) {
+//       window.scrollTo(0, offset)
+//     }
+//   })
+// }
 
 window.toggleExpandableSection = toggleExpandableSection;
 
@@ -131,11 +114,11 @@ window.onhashchange = function () {
   let hashElements = window.location.hash.split("#");
 
   if (hashElements.length >= 2) {
-    
+
      let element = document.getElementById(hashElements[1]);
 
       if (element) {
         window.scrollTo(0, element.offsetTop - 120)
       }
-  }  
+  }
 }

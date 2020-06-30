@@ -106,7 +106,7 @@ Earlier this year, functional programming _fanatic_ [John A De Goes](https://twi
 
 > Making illegal states unrepresentable is all about statically proving that all runtime values (without exception) correspond to valid objects in the business domain. The effect of this technique on eliminating meaningless runtime states is astounding and cannot be overstated.
 
-— John A De Goes (@jdegoes) [January 28, 2019](https://twitter.com/jdegoes/status/1089949149628375040?lang=en)
+— John A De Goes (@jdegoes) [January 28, 2019](https://twitter.com/jdegoes/status/1089949149628375040)
 
 This is an awesome quote. In programming (and science), it's often impossible to prove that something is _correct_, but it's reasonable to prove that something is _correct enough_.
 

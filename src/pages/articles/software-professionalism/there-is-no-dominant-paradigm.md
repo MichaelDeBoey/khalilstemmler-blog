@@ -126,7 +126,7 @@ You'll discover next how each paradigm is **best suited** to reinforce one of th
 
 ## All paradigms are necessary
 
-Recently, [Uncle Bob](https://twitter.com/unclebobmartin?lang=en) tweeted something meaningful out:
+Recently, [Uncle Bob](https://twitter.com/unclebobmartin) tweeted something meaningful out:
 
 ![Uncle Bob on Imperative, Functional and Object-Oriented](/img/blog/professionalism/paradigm/paradigms.png) 
 

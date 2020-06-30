@@ -149,7 +149,7 @@ module.exports = {
         name: "markdown-pages",
       },
     },
-    `gatsby-transformer-remark`,
+    `gatsby-plugin-twitter`,
     {
       resolve: "gatsby-transformer-remark",
       options: {
@@ -167,7 +167,6 @@ module.exports = {
             },
           },
           `gatsby-remark-reading-time`,
-          "@weknow/gatsby-remark-twitter",
           {
             resolve: `gatsby-remark-prismjs`,
             options: {

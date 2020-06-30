@@ -5,42 +5,6 @@ import get from 'lodash'
 import "../styles/SocialLinks.sass"
 
 class SocialLinks extends React.Component {
-  constructor (props) {
-    super(props);
-    this.state = {
-      widgetsLoaded: false
-    }
-
-    this.loadWidgets = this.loadWidgets.bind(this);
-  }
-  
-  loadWidgets () {
-    const { widgetsLoaded } = this.state;
-    
-    const twitterWidgetFunctionPresent = (
-      typeof window !== 'undefined' && 
-      typeof window.twttr && 
-      window.twttr.widgets !== 'undefined'
-    );
-
-    try {
-      if (!widgetsLoaded) {
-        if (twitterWidgetFunctionPresent) {
-          window.twttr.widgets.load()
-          this.setState({ ...this.state, widgetsLoaded: true })
-          return;
-        }
-      }
-    } catch (err) {
-    }
-
-    setTimeout(() => this.loadWidgets(), 50)
-  }
-
-  componentDidMount () {
-    this.loadWidgets();
-  }
-
   render () {
     const { github, twitter } = this.props;
     const showTwitterDataCount = twitter.showDataCount === true ? "true" : "false";
@@ -48,9 +12,9 @@ class SocialLinks extends React.Component {
 
     return (
       <div className="social-links">
-        <a 
-          href="https://twitter.com/stemmlerjs" 
-          class="twitter-follow-button" 
+        <a
+          href="https://twitter.com/stemmlerjs"
+          className="twitter-follow-button"
           data-size="large"
           data-show-count={showTwitterDataCount}
         >

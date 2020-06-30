@@ -41,13 +41,11 @@ Often, developers are really good at _developing_, but don't hold a great unders
 
 ![](/img/blog/graphql/ddd/schema-design/talk-cap.png)
 
-<p class="caption">You're probably more likely to find a rare unicorn strolling down your company office than you are to find someone who is both a GraphQL Expert AND a Domain Expert - from <a target="_blank" href="https://twitter.com/__xuorig__">Marc-André Giroux</a>'s <a target="_blank" href="https://www.youtube.com/watch?v=pJamhW2xPYw">talk at GraphQL Summit 2018</a>. </p>
+<p class="caption">You're probably more likely to find a rare unicorn strolling down your company office than you are to find someone who is both a GraphQL Expert AND a Domain Expert - from [Marc-André Giroux](https://twitter.com/__xuorig__)'s <a target="_blank" href="https://www.youtube.com/watch?v=pJamhW2xPYw">talk at GraphQL Summit 2018</a>. </p>
 
 This post was inspired by a tweet I blasted out recently. It describes how we can stack our odds of success for building an accurate GraphQL schema by involving domain experts in a process called _Event Storming_.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🖼️Domain-Driven GraphQL Schema Design (in 6 tweets)👇<a href="https://twitter.com/hashtag/graphQL?src=hash&amp;ref_src=twsrc%5Etfw">#graphQL</a> <a href="https://twitter.com/hashtag/eventstorming?src=hash&amp;ref_src=twsrc%5Etfw">#eventstorming</a> <a href="https://twitter.com/hashtag/dddesign?src=hash&amp;ref_src=twsrc%5Etfw">#dddesign</a> <a href="https://t.co/5P2p0XzI2q">pic.twitter.com/5P2p0XzI2q</a></p>&mdash; Khalil Stemmler (@stemmlerjs) <a href="https://twitter.com/stemmlerjs/status/1220401521784954881?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
+https://twitter.com/stemmlerjs/status/1220401521784954881
 
 Let's talk about it.
 

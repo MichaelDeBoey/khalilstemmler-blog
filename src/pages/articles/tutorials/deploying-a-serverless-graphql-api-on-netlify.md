@@ -21,7 +21,7 @@ With tools like [Netlify](https://www.netlify.com/), we can deploy a _serverless
 
 While I like being able to do things quickly, I'm also one who believes that "if we do it, we know it". So I'm going to give you a few useful resources on how to deploy serverless GraphQL APIs and then walk you through the process so that you can better appreciate what's going on. 
 
-<p class="special-quote">Huge shoutout to the great <a href="https://twitter.com/trevorblades">Trevor Blades</a> who cut 80% of the time it would have taken me to figure this stuff out on my own. Most of this is based off of his <a href="https://github.com/trevorblades/countries">Countries GraphQL API</a>.</p>
+<p class="special-quote">Huge shoutout to the great [Trevor Blades](https://twitter.com/trevorblades) who cut 80% of the time it would have taken me to figure this stuff out on my own. Most of this is based off of his <a href="https://github.com/trevorblades/countries">Countries GraphQL API</a>.</p>
 
 ## Prerequisites
 

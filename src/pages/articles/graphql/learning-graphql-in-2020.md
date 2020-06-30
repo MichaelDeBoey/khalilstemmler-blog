@@ -74,7 +74,7 @@ In order to learn, I just pick a couple of resources that will be enough to get 
 
 ### Learning GraphQL: Declarative Data Fetching for Modern Web Apps
 
-[This book](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716) by [Eve Porcello](https://twitter.com/eveporcello?lang=en) and [Alex Banks](https://twitter.com/moontahoe?lang=en) was recently recommended to me by my peers. Looks like a good starting point.
+[This book](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716) by [Eve Porcello](https://twitter.com/eveporcello) and [Alex Banks](https://twitter.com/moontahoe) was recently recommended to me by my peers. Looks like a good starting point.
 
 ### Apollo Fullstack Tutorial
 

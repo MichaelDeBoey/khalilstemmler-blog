@@ -187,9 +187,7 @@ There's no shortage of approaches to handle this.
 
 These early architectural decisions have a **profound impact** on the quality and ease of development for the remainder of the project's lifespan. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;In my opinion, the most challenging part of front-end development is choosing the stack and ensuring that everyone writes code that adheres to the architectural contours of the decided stack.&quot; - <a href="https://t.co/dHWnW3dsu3">https://t.co/dHWnW3dsu3</a> <a href="https://twitter.com/hashtag/react?src=hash&amp;ref_src=twsrc%5Etfw">#react</a> <a href="https://twitter.com/hashtag/angular?src=hash&amp;ref_src=twsrc%5Etfw">#angular</a> <a href="https://twitter.com/hashtag/VueJS?src=hash&amp;ref_src=twsrc%5Etfw">#VueJS</a></p>&mdash; Khalil Stemmler🔥 (@stemmlerjs) <a href="https://twitter.com/stemmlerjs/status/1176606328875298820?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/>
+https://twitter.com/stemmlerjs/status/1176606328875298820
 
 I think it would be correct to say that _this_ is as far as **high-level policy** goes on the front-end. The stack we choose. And the code we write within the framework of choice are the **low-level** details.
 

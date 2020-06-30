@@ -33,7 +33,7 @@ We'll talk about:
 
 ### The Hexagonal architecture
 
-[Alistair Cockburn](https://twitter.com/TotherAlistair?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)'s "Hexagonal architecture," says that the inner-most layer of our architecture holds the [application](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) and [domain layer](https://khalilstemmler.com/articles/typescript-domain-driven-design/entities/). Right outside of that layer are the _adapters_ (or ports). 
+[Alistair Cockburn](https://twitter.com/TotherAlistair)'s "Hexagonal architecture," says that the inner-most layer of our architecture holds the [application](https://khalilstemmler.com/articles/enterprise-typescript-nodejs/application-layer-use-cases/) and [domain layer](https://khalilstemmler.com/articles/typescript-domain-driven-design/entities/). Right outside of that layer are the _adapters_ (or ports). 
 
 Think of ports as "a way to connect the outside world to the inside world." The outside world is full of technologies that we can use to build our application on top of. Outside, you'll find databases, external APIs, cloud services, and all kinds of other stuff. If we practice [dependency inversion](https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/), we can safely involve them within our application by defining _ports_. Ports are abstractions. Contracts. They often appear in the form of **interfaces** or **abstract classes**.
 
@@ -82,7 +82,7 @@ If this sounds a bit _virtual_, that's because it kinda is. At Apollo GraphQL, w
 
 ## The Data Graph
 
-I first heard the idea of a **Data Graph** from [Matt DeBergalis](https://twitter.com/debergalis?lang=en), CTO of [Apollo GraphQL](https://www.apollographql.com/docs/?utm_source=khalil&utm_medium=article&utm_campaign=graphql_architectural_advantages), at GraphQL Summit 2019.
+I first heard the idea of a **Data Graph** from [Matt DeBergalis](https://twitter.com/debergalis), CTO of [Apollo GraphQL](https://www.apollographql.com/docs/?utm_source=khalil&utm_medium=article&utm_campaign=graphql_architectural_advantages), at GraphQL Summit 2019.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EDqw-sGVq3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
