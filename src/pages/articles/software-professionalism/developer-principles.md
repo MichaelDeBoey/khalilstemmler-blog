@@ -101,8 +101,6 @@ For example, there's a lot of hype around React Hooks and their utility.
 
 ![react hooks and context replaces redux](/img/blog/developer-principles/hooks.png)
 
-- via [Tyler Mcginnis](https://www.instagram.com/p/Bx5aSqQgr7p/)
-
 --- 
 
 Business are concerned with exactly two things:
@@ -145,7 +143,6 @@ What do we call that in software development? The process of improving existing 
 The thing about refactoring code is that it’s **incredibly risky** if we don’t have tests.
 
 https://twitter.com/unclebobmartin/status/1135130426673106944
-
 
 Which leads me to my next observation.
 
